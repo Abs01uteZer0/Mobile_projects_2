@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабка_3</string>
+    <string name="no_elements">Пусто</string>
+    <string name="cancel_button">Закрыть</string>
+    <string name="title">Введите название</string>
+    <string name="description">Введите описание</string>
+    <string name="help">Помощь</string>
+    <string name="help_description">Добро пожаловать в приложение "Заметки"!\nДля добавление новых заметок
+    нажмите кнопку с знаком "+". Далее, следуя подсказкам введите название и описание заметки. Чтобы сохранить заметку
+    нажмите на кнопку в нижнем правом углу.\nДля смены языка нажмите нижнюю центральную кнопку (Сменить язык).
+    При нажатии на заметку откроется окно с информацией о ней. При нажатии на кнопку в нижнем левом углу (знак карандаша) вы можете
+    отредактировать заметку, чтобы сохранить изменения нажмите на значок сохранения.\nКнопка (Закрыть) отвечает за выход с текущего
+    экрана к предыдущему.</string>
+    <string name="locale">Сменить язык</string>
+    <string name="fbAddImage">изображение</string>
+    <string name="fbDelete">удалить</string>
+    <string name="fbHelp">помощь</string>
+    <string name="fbNew">добавление</string>
+    <string name="fbSave">сохранить</string>
+    <string name="fbEdit">редактировать</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labka_3</string>
+    <string name="no_elements">Empty</string>
+    <string name="cancel_button">Close</string>
+    <string name="title">Enter title</string>
+    <string name="description">Enter description</string>
+    <string name="help">Help</string>
+    <string name="help_description">Welcome to the Notes app!\nto add new notes, click the button with the "+" sign. Then, following the prompts, enter the name and description of the note. To save a note, click on the button in the lower right corner to change the language, click the lower center button (Change language).
+Clicking on a note opens a window with information about it. By clicking on the button in the lower left corner (pencil mark) you can edit the note, to save the changes click on the save icon.\nThe (Close) button is responsible for exiting from the current screen to the previous one</string>
+    <string name="locale">Change language</string>
+    <string name="fbAddImage">image</string>
+    <string name="fbDelete">delete</string>
+    <string name="fbHelp">help</string>
+    <string name="fbNew">add</string>
+    <string name="fbSave">save</string>
+    <string name="fbEdit">edit</string>
+</resources>
